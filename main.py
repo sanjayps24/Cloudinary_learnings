@@ -43,5 +43,5 @@ def upload_file(file_path):
 # MAIN
 # ==============================
 if __name__ == "__main__":
-    file_path = r"C:\Users\DELL\Cloudinary_learnings\Tomatoes-sh769524253.jpg"
+    file_path = r"C:\Users\DELL\Cloudinary_learnings\Toxic_Official_Kannada_Teaser_Rocking_Star_Yash_Geetu_Mohandas_KVN_Monster_Mind_Creations_480P.mp4"
     upload_file(file_path)
