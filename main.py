@@ -43,5 +43,5 @@ def upload_file(file_path):
 # MAIN
 # ==============================
 if __name__ == "__main__":
-    file_path = input("Enter file path (image/video/audio): ").strip()
+    file_path = r"C:\Users\DELL\Cloudinary_learnings\Tomatoes-sh769524253.jpg"
     upload_file(file_path)
